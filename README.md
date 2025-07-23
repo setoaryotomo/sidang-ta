@@ -17,6 +17,9 @@ https://docs.google.com/spreadsheets/d/1iEYljOSmL1epp4aqLXW39ur4r2Dz4p7G/edit?us
 # survey oleholeh
 https://docs.google.com/spreadsheets/d/15YlG2YO2BVmvQefAk8bZDRaGCVNgZk2FoMi7iaX5B78/edit?usp=sharing
 
+# Testing Hasil Rekomendasi Parcel
+https://docs.google.com/spreadsheets/d/1qr9qEjpz-GrTXkT7rLF1yxb7bDEGl5r5_bdYqajbsmM/edit?usp=sharing
+
 # link kuesioner gform UAT
 https://docs.google.com/forms/d/e/1FAIpQLSfb_3vHisV3b-iDmJ8OPa47trdsKf40rUpQ6YNozo3J8lv9LA/viewform?usp=sharing&ouid=100744147333156255956
 
