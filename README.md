@@ -15,7 +15,7 @@ https://simulator.sandbox.midtrans.com
 https://docs.google.com/spreadsheets/d/1iEYljOSmL1epp4aqLXW39ur4r2Dz4p7G/edit?usp=sharing&ouid=100744147333156255956&rtpof=true&sd=true
 
 # survey oleholeh
-https://docs.google.com/spreadsheets/d/1iEYljOSmL1epp4aqLXW39ur4r2Dz4p7G/edit?usp=sharing&ouid=100744147333156255956&rtpof=true&sd=true
+https://docs.google.com/spreadsheets/d/15YlG2YO2BVmvQefAk8bZDRaGCVNgZk2FoMi7iaX5B78/edit?usp=sharing
 
 # link kuesioner gform UAT
 https://docs.google.com/forms/d/e/1FAIpQLSfb_3vHisV3b-iDmJ8OPa47trdsKf40rUpQ6YNozo3J8lv9LA/viewform?usp=sharing&ouid=100744147333156255956
